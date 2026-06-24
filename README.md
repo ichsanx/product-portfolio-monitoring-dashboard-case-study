@@ -26,7 +26,7 @@ The original application was developed for an internal enterprise environment. O
 | Item | Description |
 |---|---|
 | Project Type | Enterprise Product Portfolio Monitoring Dashboard |
-| My Role | Data & Business Intelligence Engineer |
+| My Role | Data & Business Intelligence Engineer / Dashboard Developer |
 | Database | Oracle Database |
 | Backend | PHP and REST-style API |
 | Frontend | HTML, CSS, and JavaScript |
