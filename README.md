@@ -11,6 +11,7 @@
 ---
 
 ## Overview
+This case study focuses on the end-to-end data lifecycle: collection, validation, transformation, Oracle persistence, API processing, dashboard visualization, and auditability.
 
 This repository presents an anonymized portfolio case study of an enterprise product portfolio monitoring dashboard developed to centralize product tracking, progress monitoring, Excel/CSV data import, change history, user administration, and executive reporting.
 
